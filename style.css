@@ -1,0 +1,33 @@
+/*element.style {
+    background-image: url('./butterfly.jpg');
+}*/
+
+
+navbar
+{
+    font-size: 1.3em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+#home {
+    background-size: cover;
+    background-image: url("butterfly.jpg");
+   /* background-color: rgb(35, 37, 37);*/
+    background-blend-mode: difference;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    background-repeat: no-repeat;
+    margin: 10px auto;
+    height: 25em;
+}
+#Contact_info
+{
+
+    background-color: wheat;
+
+}
